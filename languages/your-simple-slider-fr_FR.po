@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Your Simple Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-30 13:36+0000\n"
+"PO-Revision-Date: 2022-11-14 12:17+0000\n"
+"Last-Translator: \n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1\n"
+"X-Domain: your-simple-slider"
+
+#. Author URI of the plugin
+msgid "//lihenko.com.ua"
+msgstr "//lihenko.com.ua"
+
+#: your-simple-slider.php:95
+msgid "<i>Set Images for Featured Image Gallery</i>"
+msgstr "<i>Définir les images pour la galerie d'images en vedette</i>"
+
+#: your-simple-slider.php:112
+msgid "Add/Edit Gallery"
+msgstr "Ajouter/Modifier la Galerie"
+
+#: your-simple-slider.php:77
+msgid "Arrows"
+msgstr "Flèches"
+
+#: your-simple-slider.php:84
+msgid "Bullets"
+msgstr "Balles"
+
+#: your-simple-slider.php:114
+msgid "Clear"
+msgstr "Dégager"
+
+#. meta box ID
+#: your-simple-slider.php:43
+msgid "Featured Image Gallery"
+msgstr "Galerie d'images en vedette"
+
+#. Description of the plugin
+msgid "Its very simple plugin for image slider"
+msgstr "Ce plugin est très simple pour un slider d'images"
+
+#: your-simple-slider.php:80 your-simple-slider.php:87
+msgid "No"
+msgstr "Non"
+
+#. meta box ID
+#: your-simple-slider.php:49
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: your-simple-slider.php:29
+msgid "Simple Slider"
+msgstr "Simple Slider"
+
+#: your-simple-slider.php:73
+msgid "Slider Height"
+msgstr "Hauteur de la slider"
+
+#: your-simple-slider.php:91
+msgid "Slider Speed"
+msgstr "Vitesse de la slider"
+
+#. Author of the plugin
+msgid "Vladyslav Lykhenko"
+msgstr "Vladyslav Lykhenko"
+
+#: your-simple-slider.php:79 your-simple-slider.php:86
+msgid "Yes"
+msgstr "Oui"
+
+#. Name of the plugin
+#: your-simple-slider.php:28
+msgid "Your Simple Slider"
+msgstr "Votre Simple Slider"

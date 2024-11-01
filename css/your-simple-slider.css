@@ -1,0 +1,21 @@
+.slick-prev{
+    left: 5px;
+    z-index: 99;
+}
+
+.slick-next{
+    right: 5px;
+    z-index: 99;
+}
+
+.flexslider ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.flexslider .slides .slider-item div{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

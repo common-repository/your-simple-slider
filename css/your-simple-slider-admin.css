@@ -1,0 +1,22 @@
+#your_simple_slider_feat_img_slider .gallery-screenshot{
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	margin-left: -5px;
+	margin-right: -5px;
+}
+
+#your_simple_slider_feat_img_slider .gallery-screenshot .screen-thumb{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#slider-shortcode{
+	padding: 5px 15px;	
+	background-color: #f6f7f7;
+	cursor: pointer;
+	text-align: center;	
+	font-weight: 600;
+}

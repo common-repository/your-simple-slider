@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Your Simple Slider\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-10-30 13:36+0000\n"
+"PO-Revision-Date: 2022-10-30 14:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.0.3\n"
+"X-Domain: your-simple-slider"
+
+#. Author URI of the plugin
+msgid "//lihenko.com.ua"
+msgstr "//lihenko.com.ua"
+
+#: your-simple-slider.php:95
+msgid "<i>Set Images for Featured Image Gallery</i>"
+msgstr "<i>Configurar imágenes para la galería de imágenes destacadas</i>"
+
+#: your-simple-slider.php:112
+msgid "Add/Edit Gallery"
+msgstr "Añadir/Editar Galería"
+
+#: your-simple-slider.php:77
+msgid "Arrows"
+msgstr "Flechas"
+
+#: your-simple-slider.php:84
+msgid "Bullets"
+msgstr "Balas"
+
+#: your-simple-slider.php:114
+msgid "Clear"
+msgstr "Despejando"
+
+#. meta box ID
+#: your-simple-slider.php:43
+msgid "Featured Image Gallery"
+msgstr "Galería de imágenes destacadas"
+
+#. Description of the plugin
+msgid "Its very simple plugin for image slider"
+msgstr "Es un plugin muy sencillo para el slider de imágenes"
+
+#: your-simple-slider.php:80 your-simple-slider.php:87
+msgid "No"
+msgstr "No"
+
+#. meta box ID
+#: your-simple-slider.php:49
+msgid "Shortcode"
+msgstr "Código corto"
+
+#: your-simple-slider.php:29
+msgid "Simple Slider"
+msgstr "Deslizador Simple"
+
+#: your-simple-slider.php:73
+msgid "Slider Height"
+msgstr "Altura del deslizador"
+
+#: your-simple-slider.php:91
+msgid "Slider Speed"
+msgstr "Velocidad del deslizador"
+
+#. Author of the plugin
+msgid "Vladyslav Lykhenko"
+msgstr "Vladyslav Lykhenko"
+
+#: your-simple-slider.php:79 your-simple-slider.php:86
+msgid "Yes"
+msgstr "Sí"
+
+#. Name of the plugin
+#: your-simple-slider.php:28
+msgid "Your Simple Slider"
+msgstr "Tu Simple Deslizador"
